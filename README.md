@@ -2,9 +2,9 @@
 
 Hi there I'm María 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-🌱 I’m currently learning web programming.
+🌱 I’m currently learning web programming in a fullstack bootcamp, here you can see my projects.
 
-Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,py,bootstrap,vscode,flask,figma)](https://skillicons.dev&perline=5)
 
 
