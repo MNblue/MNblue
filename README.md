@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNBlue)](https://github.com/MNblue/github-readme-stats)
+
+![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNblue&hide=prs,issues)
+![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNblue&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNblue)](https://github.com/MNblue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNblue&layout=compact)](https://github.com/MNblue/github-readme-stats)
+
 <!--
 **MNblue/MNblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
