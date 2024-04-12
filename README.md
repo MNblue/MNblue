@@ -1,6 +1,5 @@
-### Hi there 👋
-<h2> I'm María <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi there 👋 I'm María <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 
 
 
@@ -9,6 +8,7 @@
 ![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNblue&show_icons=true&hide=prs,starts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNblue&layout=compact)](https://github.com/MNblue/github-readme-stats)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 **MNblue/MNblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
