@@ -1,7 +1,6 @@
+
+<img src="https://i.postimg.cc/3wrSbGtQ/banner-MN-8.png">
 ### Hi there 👋 I'm María <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<img src="https://i.postimg.cc/SQPXvpNZ/banner-MN-7.png">
-
 
 
 <!--
