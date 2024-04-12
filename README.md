@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNBlue)](https://github.com/MNblue/github-readme-stats)
 
-
-![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNblue&show_icons=true)
+![MNblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNblue&show_icons=true&hide=prs,starts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNblue&layout=compact)](https://github.com/MNblue/github-readme-stats)
 
